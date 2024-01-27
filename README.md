@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./circuit.png" alt="Circuit Analysis">
+  <img src="./circuit.png" alt="Circuit Analysis" width="150">
 </p>
 
 # Advanced Level of Circuit Analysis
