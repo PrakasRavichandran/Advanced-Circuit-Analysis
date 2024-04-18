@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="./circuit.png" alt="Circuit Analysis" width="150">
-</p>
+<img src="./circuit.png" width="144" align="right" hspace="0" />
 
-# Advanced Level of Circuit Analysis
+✨ &nbsp;Advanced Level of Circuit Analysis 💫
+======
 
+<br>
 Circuit analysis is a vital skill that you employ as an electrical engineer or technician to understand and predict the behavior of an electric circuit. Circuit analysis includes applying mathematical formulas and rules, such as Kirchhoff's and Ohm's laws, to analyze the voltage and current in each circuit component.
 
 Circuit analysis aims to understand how a circuit behaves under different conditions and predict its future behavior. It is crucial for designing and troubleshooting circuits in various systems, including power systems, electronic devices, and communication systems.
